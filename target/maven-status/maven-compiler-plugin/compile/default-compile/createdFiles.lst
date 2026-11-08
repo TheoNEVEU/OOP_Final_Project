@@ -1,6 +1,0 @@
-service\DiceRoller.class
-model\Entity.class
-exception\InvalidDiceFormatException.class
-service\StandardDiceRoller.class
-model\Hero.class
-model\Monster.class
